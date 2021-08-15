@@ -1,5 +1,5 @@
 ---
-title: "NDS Lab - Home"
+title: "Yu Wang - Home"
 layout: homelay
 excerpt: "Yu Wang at Vanderbilt University."
 sitemap: false
