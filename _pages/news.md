@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Network and Data Science Lab at Vanderbilt University."
+excerpt: "Yu Wang at Vanderbilt University."
 sitemap: false
 permalink: /news.html
 ---
