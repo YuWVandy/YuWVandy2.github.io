@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-We are the Network and Data Science (NDS) lab at Vanderbilt University, led by Tyler Derr. Our research lies in social computing, data mining, and machine learning, especially social network analysis, deep learning on graphs, and data science for social good with applications in education, health, political science, and autism research. <!-- where we plan to develop intelligent user interfaces and virtual agents. -->
+I am a first year Ph.D. student majoring in [Computer Science](https://engineering.vanderbilt.edu/eecs/) at [Vanderbilt University](https://vanderbilt.edu) advised by [Dr. Tyler Derr](https://www.cse.msu.edu/~derrtyle/).
 
 <!-- For now, you can see our memebers [here](people). -->
 
