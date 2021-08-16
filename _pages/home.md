@@ -27,7 +27,7 @@ I am a first year Ph.D. student majoring in [Computer Science](https://engineeri
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/vandy1.jpg" alt="Slide 1" />
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/vandy2.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/treedecompose.jpg" alt="Slide 2" />
         </div>
         <!-- 
         <div class="item">
