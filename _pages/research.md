@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-## Group highlights
+## Project Siteseeing
 (For a full list of publications and codes see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=XPCmiz4AAAAJ&hl=en))
 
 {% assign number_printed = 0 %}
