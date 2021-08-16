@@ -1,17 +1,8 @@
-#- title: "Title and image for highlight 1/0"
-#  image: TiNHigh.png
-#  description: Description for highlight
-#  authors: authors
-#  link:
-#    url: url
-#    display: url text eg conf (year)
-#  highlight: 1
-
-#- title: "Title and image for highlight 1/0"
-#  image: TiNHigh.png
-#  description: Description for highlight
-#  authors: authors
-#  link:
-#    url: url
-#    display: url text eg conf (year)
-#  highlight: 0
+- title: "Tee Decomposed Graph Neural Network"
+ image: decompose.png
+ description: Graph Neural Networks (GNNs) have achieved significant successin learning better representations by performing feature propa-gation and transformation iteratively to leverage neighborhoodinformation. Nevertheless, iterative propagation restricts the infor-mation of higher-layer neighborhoods to being transported throughand first fused with the lower-layer neighborhoods’, which unavoid-ably results in feature smoothing between neighborhoods in differ-ent layers and can thus compromise the performance, especially onheterophily networks. Furthermore, most deep GNNs only recog-nize the importance of incorporating higher-layer neighborhoodswhile yet to fully explore the importance of multi-hop dependencywithin the context of different layer neighborhoods in learningbetter representations. In this work, we first theoretically analyzethe feature smoothing between neighborhoods in different layersand empirically demonstrate the variance of the homophily levelacross neighborhoods at different layers. Then, motivated by theseanalyses, we propose a tree decomposition method to disentangleneighborhoods in different layers to help alleviate feature smooth-ing among these layers. Moreover, we capture and maintain theimportance of multi-hop dependency via graph diffusion withinour tree decomposition formulation to construct Tree DecomposedGraph Neural Network (TDGNN), which can flexibly incorporateinformation from large receptive fields and utilizing the multi-hopdependency. Comprehensive experiments and parameter analysison citation, webpage, and actor co-occurrence networks demon-strate that TDGNN primarily achieves superior performance onboth homophily and heterophily networks under a variety of nodeclassification settings while also showing its ability to prevent over-smoothing and effectiveness in only utilizing features from shallowlayers while leveraging deeper multi-hop dependencies, which pro-vides new insights towards deeper graph neural networks.
+ authors: Yu Wang, Tyler Derr
+ link:
+   url: 
+   display: ACM CIKM 2021
+ highlight: 1
