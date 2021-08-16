@@ -1,7 +1,7 @@
 ---
-title: "NDS Lab - Research"
+title: "Yu Wang - Research"
 layout: textlay
-excerpt: "NDS Lab -- Research"
+excerpt: "Yu Wang -- Research"
 sitemap: false
 permalink: /research/
 ---
