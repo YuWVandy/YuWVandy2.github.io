@@ -1,92 +1,23 @@
 - date: 7/2021
-  headline: "<b> Yu's first paper in NDS is accepted to ACM CIKM'21!</b>"
-
-- date: 7/2021
-  headline: "<b> 3 papers accepted to ACM CIKM'21!</b>"
-
-- date: 7/2021
-  headline: "<b> 1 paper accepted to ACM Hypertext'21!</b>"
-
-- date: 7/2021
-  headline: "<b>Kayla receives NISE Fellowship through the Frist Center!</b>"
-
-- date: 6/2021
-  headline: "<b>Tyler receives Best Reviewer Award at ICWSM'21!</b>"
-
-- date: 5/2021
-  headline: "<b>Kayla and Yuying receive ICWSM Scholarship to participate in ICWSM'21!</b>"
-
-- date: 5/2021
-  headline: "<b>1 paper accepted to KDD'21!</b>"
-
-- date: 4/2021
-  headline: "<b>Zhaoqing receives the Dean's Graduate Fellowship Award and will join NDS Lab as a new PhD in Fall 2021!</b>"
-
-- date: 4/2021
-  headline: "<b>Yuying receives the IBM Fellowship Award and will join NDS Lab as a new PhD in Fall 2021!</b>"
-
-- date: 4/2021
-  headline: "<b>Yu receives a Student Travel Award and Tyler receives Early Career Travel Award to attend SDM'21 supported by NSF!</b>"
-
-- date: 4/2021
-  headline: "<b>Welcome new BS member!</b> <br /> <span style=\"color: #808080\">Sam joins NDS Lab</span>"
-
-- date: 4/2021
-  headline: "<b>Chet and Ben receive DSI-SRP fellowship for summer 2021!</b>"
+  headline: "<b> Our paper 'Tree Decomposed Graph Neural Network' is accepted to ACM CIKM'21!</b>"
 
 - date: 3/2021
-  headline: "<b>Trevor receives VUSRP fellowship for summer 2021!</b>"
+  headline: "<b>Awarded Student Travel Award to attend SDM'21 supported by NSF!</b>"
 
 - date: 3/2021
-  headline: "<b>Yu accepted to present his work at SDM'21 Doctoral Forum!</b>"
-
-- date: 2/2021 
-  headline: "<b>Tyler receives Teaching Innovation Award from the School of Engineering at VU!</b>"
-
-- date: 2/2021 
-  headline: "<b>Welcome new MS member!</b> <br /> <span style=\"color: #808080\">Kayla joins NDS Lab</span>"
-
-- date: 2/2021 
-  headline: "<b>Welcome new BS member!</b> <br /> <span style=\"color: #808080\">Chet joins NDS Lab</span>"
-
-- date: 2/2021 
-  headline: "<b>Tutorial on GNNs given at AAAI'21!</b>"
+  headline: "<b>Poster presentation at SDM'21 Doctoral Forum!</b>"
 
 - date: 1/2021
-  headline: "<b>Yu awarded free registration and volunteer position at IJCAI'20!</b>"
+  headline: "<b>Awarded free registration and volunteer position at IJCAI'20!</b>"
 
 - date: 1/2021
-  headline: "<b>Welcome new PhD member!</b> <br /> <span style=\"color: #808080\">Yu join NDS Lab</span>"
+  headline: "<b>Excited to join VU-NDS lab with superivsion under Dr. Derr!</b> <br />
 
 - date: 2020
   headline: "YEAR"
-
-- date: 12/2020
-  headline: "<b>1 paper accepted to AAAI'21!</b>"
-
-- date: 12/2020
-  headline: "<b>Welcome new BS members!</b> <br /> <span style=\"color: #808080\">Ben, Jack, and Trevor join NDS Lab</span>"
-
-- date: 12/2020
-  headline: "<b>Welcome new MS member!</b> <br /> <span style=\"color: #808080\">Cole joins NDS Lab</span>"
-
-- date: 10/2020
-  headline: "<b>1 paper accepted to WSDM'21!</b>"
-
-- date: 10/2020
-  headline: "<b>1 paper accepted to ICDE'21!</b>"
-
-- date: 8/2020
-  headline: "<b>Tyler gave an invited keynote at DLG-KDD'20 / MLG'20!</b>"
-
-- date: 8/2020
-  headline: "<b>Tutorial on GNNs given at KDD'20!</b>"
-
-- date: 8/2020
-  headline: "<b>1 paper accepted to IEEE TALE'20!</b>"
-
-- date: 8/2020
-  headline: "<b>1 paper accepted to ICDM'20!</b>"
-
-- date: 8/2020
-  headline: "<b>Tyler joins VU and establishes NDS Lab!</b>"
+  
+- date: 11/20
+  headline: "<b> Our paper ‘‘A Data-Integration Analysis on Road Emissions and Traffic Patterns’’ is accepted at Smoky Mountains Computational Sciences and Engineering Conference 2020. Springer, Cham!</b>"
+  
+- date: 8/20
+  headline: "<b> <a href="https://engineering.vanderbilt.edu/news/2020/student-team-takes-top-honors-in-data-science-challenge/">Best Paper Award</a> in <a href="https://smc-datachallenge.ornl.gov/">SMC Data Challenge 2020</a></li></b>"
