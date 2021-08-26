@@ -3,7 +3,7 @@
   description: Iterative propagation restricts the information of higher-layer neighborhoods to being transported through and first fused with the lower-layer neighborhoods', which unavoidably results in feature smoothing between neighborhoods in different layers and can thus compromise the performance. Furthermore, most deep GNNs only recognize the importance of incorporating higher-layer neighborhoods while yet to fully explore the importance of multi-hop dependency within the context of different layer neighborhoods in learning better representations. In this work, we first theoretically analyze the feature smoothing between neighborhoods in different layers and empirically demonstrate the variance of the homophily level across neighborhoods at different layers. Then, motivated by these analyses, we propose a tree decomposition method to disentangle neighborhoods in different layers to help alleviate feature smoothing among these layers. Moreover, we capture and maintain the importance of multi-hop dependency via graph diffusion within our tree decomposition formulation to construct Tree Decomposed Graph Neural Network (TDGNN), which can flexibly incorporate information from large receptive fields and utilizing the multi-hop dependency.
   authors: Yu Wang, Tyler Derr
   link:
-    url: https://github.com/YuWVandy/TDGNN
+    url: https://arxiv.org/abs/2108.11022
     display: ACM CIKM 2021
   highlight: 1
  
