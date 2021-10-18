@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-I am a first year Ph.D. student majoring in [Computer Science](https://engineering.vanderbilt.edu/eecs/) at [Vanderbilt University](https://vanderbilt.edu) advised by [Dr. Tyler Derr](https://www.cse.msu.edu/~derrtyle/).
+I am a Ph.D. student majoring in [Computer Science](https://engineering.vanderbilt.edu/eecs/) at [Vanderbilt University](https://vanderbilt.edu) advised by [Dr. Tyler Derr](https://www.cse.msu.edu/~derrtyle/).
 
 <!-- For now, you can see our memebers [here](people). -->
 
