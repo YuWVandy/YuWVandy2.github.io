@@ -9,6 +9,10 @@ permalink: /
 
 I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/eecs/) at [Vanderbilt University](https://vanderbilt.edu) advised by [Dr. Tyler Derr](https://www.cse.msu.edu/~derrtyle/).
 
+<div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/vandy1.jpg" alt="Slide 1" />
+</div>
+        
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="8000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
