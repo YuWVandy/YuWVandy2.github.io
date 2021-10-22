@@ -9,8 +9,6 @@ permalink: /
 
 I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/eecs/) at [Vanderbilt University](https://vanderbilt.edu) advised by [Dr. Tyler Derr](https://www.cse.msu.edu/~derrtyle/).
 
-<!-- For now, you can see our memebers [here](people). -->
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="8000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -18,8 +16,6 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
         <li data-target="#carousel" data-slide-to="1"></li>
         <!-- <li data-target="#carousel" data-slide-to="2"></li> -->
     </ol>
-
-    <!-- Items (and how to comment) -->
     
     <div class="carousel-inner" markdown="0">
 
