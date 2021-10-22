@@ -9,6 +9,4 @@ permalink: /
 
 I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/eecs/) at [Vanderbilt University](https://vanderbilt.edu) advised by [Dr. Tyler Derr](https://www.cse.msu.edu/~derrtyle/).
 
-<div id='img' class='col-sm-4'>
-  <img src="{{site.utl}}{{site.baseutl}}/images/carousel/Profile.png" style="margin:0px 0px; width:200px;display:block" />
-</div>
+ <img src="{{site.utl}}{{site.baseutl}}/images/carousel/Profile.png" style="margin:0px 0px; width:200px;display:block; position: absolute; right: 0%" />
