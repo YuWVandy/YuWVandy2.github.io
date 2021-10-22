@@ -12,6 +12,18 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/vandy1.jpg" alt="Slide 1" />
 </div>
+<title>About me - WEI JIN’S HOMEPAGE</title>
+<meta content="en-US" property="og:locale"/>
+<meta content="WEI JIN'S HOMEPAGE" property="og:site_name"/>
+<meta content="About me" property="og:title"/>
+<link href="http://cse.msu.edu/~jinwei2/" rel="canonical"/>
+<meta content="http://cse.msu.edu/~jinwei2/" property="og:url"/>
+<meta content="About me" property="og:description"/>
+<meta content="@weisshelter" name="twitter:site"/>
+<meta content="About me" name="twitter:title"/>
+<meta content="About me" name="twitter:description"/>
+<meta content="http://cse.msu.edu/~jinwei2/" name="twitter:url"/>
+<meta content="summary" name="twitter:card"/>
         
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="8000" data-pause="hover" >
     <!-- Menu -->
