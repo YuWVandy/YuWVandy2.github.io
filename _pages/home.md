@@ -11,7 +11,7 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 
 
 <div id="profile">
-<img src="{{site.utl}}{{site.baseutl}}/images/carousel/Profile.png" style="margin:0px 500px; width:200px; display:block; " />
+<img src="{{site.utl}}{{site.baseutl}}/images/carousel/Profile.png" style="margin:0px 1000px; width:200px; display:block; " />
 </div>
   
   
