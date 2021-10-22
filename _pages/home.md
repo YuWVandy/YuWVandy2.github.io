@@ -35,14 +35,14 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
         -->
     </div>
     
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+<!--   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
   <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
-  </a>
+  </a> -->
 </div>
 
 My research interest lies in the domains of applied-machine learning and data mining on graphs with an emphasis on deep learning on graphs. More specifically, I am currently researching graph neural networks (GNNs) focusing on ways to leverage high-order attention and neighorhood information to tackle the over-smoothing and over-squashing problem in deep graph neural network models, which imposes significant impact on learning better representations for tasks such as node classification, link prediction and community detection. Meanwhile, I am highly interested in applying various self-supervised learning strategies including contrastive learning to further boost the performance of GNNs..
