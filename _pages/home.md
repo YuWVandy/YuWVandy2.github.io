@@ -10,7 +10,7 @@ permalink: /
 I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/eecs/) at [Vanderbilt University](https://vanderbilt.edu) advised by [Dr. Tyler Derr](https://www.cse.msu.edu/~derrtyle/).
 
 
-<img src="{{site.utl}}{{site.baseutl}}/images/carousel/profile.png" style="margin:100px 0px; width:200px;display:block" />
+<img src="{{site.utl}}{{site.baseutl}}/images/carousel/Profile.png" style="margin:100px 0px; width:200px;display:block" />
         
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="8000" data-pause="hover" >
     <!-- Menu -->
