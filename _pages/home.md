@@ -14,5 +14,5 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 <img src="{{site.utl}}{{site.baseutl}}/images/carousel/Profile.png" style="margin:0px 800px; width:200px; display:block; " />
 </div>
 
-<a href="https://twitter.com/YuWVandy?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false", style ="margin:0px 800px">Follow @YuWVandy</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/YuWVandy?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false", style="position:absolute; top:10px; left:618px;">Follow @YuWVandy</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
  
