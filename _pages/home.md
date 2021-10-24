@@ -52,8 +52,8 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 <li>[03/2021] Awarded Student Travel Award and Poster presentation at SDM'21 Doctoral Forum!</b>"
 <li>[02/2021] Excited to Join NDS group supervised by Dr. Tyler Derr</li>    
 <li>[01/2021] Awarded free registration and volunteer position at IJCAI'20!</li>
-<li>[11/2020] Our paper ‘‘A Data-Integration Analysis on Road Emissions and Traffic Patterns’’ is accepted at Smoky Mountains Computational Sciences and Engineering Conference 2020. Springer, Cham!</li>
+<li>[11/2020] Our work <a href="https://link.springer.com/chapter/10.1007/978-3-030-63393-6_34">"A Data-Integration Analysis on Road Emissions and Traffic Patterns’’</a> is accepted at Smoky Mountains Computational Sciences and Engineering Conference 2020. Springer, Cham!</li>
 <li>[08/2020] Best Paper Award in SMC Data Challenge 2020!</li>
-<li>[08/2019] Join Dr. Hiba Baroud's group at Vanderbilty</a>.</li>
-<li>[06/2019] Graduate from Harbin Insistute of Technology</a>.</li>
+<li>[08/2019] Join Dr. Hiba Baroud's group at Vanderbilty.</li>
+<li>[06/2019] Graduate from Harbin Insistute of Technology.</li>
 </ul>
