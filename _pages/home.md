@@ -56,4 +56,3 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 <li>[08/2020] Best Paper Award in SMC Data Challenge 2020!</li>
 <li>[08/2019] Join Dr. Hiba Baroud's group at Vanderbilty.</li>
 <li>[06/2019] Graduate from Harbin Insistute of Technology.</li>
-</ul>
