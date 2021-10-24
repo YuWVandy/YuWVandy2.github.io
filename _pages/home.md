@@ -11,14 +11,9 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 
 
 <div>
-<img src="{{site.utl}}{{site.baseutl}}/images/carousel/Profile.png" style="margin:0px 800px; width:200px; display:block"/>
+123213132 <img src="{{site.utl}}{{site.baseutl}}/images/carousel/Profile.png" style="margin:0px 800px; width:200px; display:block"/>
 </div>
 
-
-
-<div class="yellow-div">
-    123
-</div>
 
 
 
