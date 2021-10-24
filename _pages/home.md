@@ -26,6 +26,6 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 </div>
 
 
-<div class="personallogo">
+<div class="yellow-div">
 123123213123132
 </div>
