@@ -16,7 +16,7 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 
 
 
-<div class="author__urls-wrapper">
+<div class="twitter">
 <br><i aria-hidden="true" class="fa fa-fw fa-map-marker"></i> Nashville, Tennessee
 <br><a href="mailto:yu.wang.1@vanderbilt.edu"><i aria-hidden="true" class="fas fa-envelope"></i> Email</a>
 <br><a href="https://twitter.com/YuWVandy"><i aria-hidden="true" class="fab fa-twitter-square"></i> Twitter</a>
