@@ -44,6 +44,7 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 </div>
 
 <h1 id="news">News</h1>
+<ul>
 <li>[08/2021] Serving as the session chair at KDD2021!
 <li>[08/2021] Invited to serve as PC member for AAAI2021!
 <li>[08/2021] Our work <a href="https://arxiv.org/abs/2108.11022">"Tree Decomposed Graph Neural Network"</a> is accepted by CIKM 2021! </li>
@@ -55,3 +56,4 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 <li>[08/2020] Best Paper Award in SMC Data Challenge 2020!</li>
 <li>[08/2019] Join Dr. Hiba Baroud's group at Vanderbilty.</li>
 <li>[06/2019] Graduate from Harbin Insistute of Technology.</li>
+</ul>
