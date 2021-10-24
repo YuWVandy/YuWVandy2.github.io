@@ -8,7 +8,6 @@ permalink: /
 
 
 I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/eecs/) at [Vanderbilt University](https://vanderbilt.edu) advised by [Dr. Tyler Derr](https://www.cse.msu.edu/~derrtyle/).
-13122234445566
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="8000" data-pause="hover" >
@@ -18,16 +17,14 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
         <li data-target="#carousel" data-slide-to="1"></li>
         <!-- <li data-target="#carousel" data-slide-to="2"></li> -->
     </ol>
-
     <!-- Items (and how to comment) -->
     
     <div class="carousel-inner" markdown="0">
-
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/vandy1.jpg" alt="Slide 1" />
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/vandy2.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/treedecompose.png" alt="Slide 2" />
         </div>
         <!-- 
         <div class="item">
