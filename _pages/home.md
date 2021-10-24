@@ -14,7 +14,7 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 <img src="{{site.utl}}{{site.baseutl}}/images/carousel/Profile.png" style="margin:0px 800px; width:200px;"/>
 </div>
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="8000" data-pause="hover" >
+<!-- <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="8000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -33,7 +33,7 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/treedecompose.png" alt="Slide 3" />
         </div>
     </div>
-</div>
+</div> -->
 
 
 <div class="yellow-div">
