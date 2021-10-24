@@ -24,16 +24,14 @@ Follow @YuWVandy
 
 
 
-
-</div>
 <div class="author__urls-wrapper">
 <button class="btn btn--inverse">Follow</button>
 <ul class="author__urls social-icons">
-<li><i aria-hidden="true" class="fa fa-fw fa-map-marker"></i> East Lansing, Michigan</li>
-<li><a href="mailto:jinwei2@msu.edu"><i aria-hidden="true" class="fas fa-envelope"></i> Email</a></li>
-<li><a href="https://twitter.com/weisshelter"><i aria-hidden="true" class="fab fa-twitter-square"></i> Twitter</a></li>
-<li><a href="https://www.linkedin.com/in/wei-jin-71041a182"><i aria-hidden="true" class="fab fa-linkedin"></i> LinkedIn</a></li>
-<li><a href="https://github.com/ChandlerBang"><i aria-hidden="true" class="fab fa-github"></i> Github</a></li>
-<li><a href="https://scholar.google.com/citations?user=eWow24EAAAAJ&amp;hl=en"><i class="fas fa-graduation-cap"></i> Google Scholar</a></li>
+<li><i aria-hidden="true" class="fa fa-fw fa-map-marker"></i> Nashville, Tennessee</li>
+<li><a href="mailto:yu.wang.1@vanderbilt.edu"><i aria-hidden="true" class="fas fa-envelope"></i> Email</a></li>
+<li><a href="https://twitter.com/YuWVandy"><i aria-hidden="true" class="fab fa-twitter-square"></i> Twitter</a></li>
+<li><a href="https://www.linkedin.com/in/yu-wang-63359a196/"><i aria-hidden="true" class="fab fa-linkedin"></i> LinkedIn</a></li>
+<li><a href="https://github.com/YuWVandy"><i aria-hidden="true" class="fab fa-github"></i> Github</a></li>
+<li><a href="https://scholar.google.com/citations?user=XPCmiz4AAAAJ&hl=en"><i class="fas fa-graduation-cap"></i> Google Scholar</a></li>
 </ul>
 </div>
