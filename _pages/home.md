@@ -21,3 +21,11 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 Follow @YuWVandy 
 </a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
+
+
+
+
+<div>
+<a href="https://github.com/YuWVandy">
+<img src="{{site.utl}}{{site.baseutl}}/images/logo/GitHub-Mark-32px.png" style="margin:0px 800px; width:200px; display:block;"/>
+</div>
