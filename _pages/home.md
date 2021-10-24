@@ -45,7 +45,8 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 
 <h1 id="news">News</h1>
 <ul>
-<li> Our work <a href="https://arxiv.org/abs/2105.04493">"Tree Decomposed Graph Neural Network"</a> is accepted by CIKM 2021! </li>
+<li>[08/2021] Our work <a href="https://arxiv.org/abs/2108.11022">"Tree Decomposed Graph Neural Network"</a> is accepted by CIKM 2021! </li>
+<li>[06/2021] Preprint <a href="https://tylersnetwork.github.io/papers/ssl_for_gnns.pdf">“Graph Neural Networks: Self-supervised Learning”</a>.</li>
 </ul>
 
 
