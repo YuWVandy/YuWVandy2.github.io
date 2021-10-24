@@ -18,11 +18,11 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 
 <div class="author__urls-wrapper">
 <ul class="author__urls social-icons">
-<i aria-hidden="true" class="fa fa-fw fa-map-marker"></i> Nashville, Tennessee
-<a href="mailto:yu.wang.1@vanderbilt.edu"><i aria-hidden="true" class="fas fa-envelope"></i> Email</a>
-<a href="https://twitter.com/YuWVandy"><i aria-hidden="true" class="fab fa-twitter-square"></i> Twitter</a>
-<a href="https://www.linkedin.com/in/yu-wang-63359a196/"><i aria-hidden="true" class="fab fa-linkedin"></i> LinkedIn</a>
-<a href="https://github.com/YuWVandy"><i aria-hidden="true" class="fab fa-github"></i> Github</a>
-<a href="https://scholar.google.com/citations?user=XPCmiz4AAAAJ&hl=en"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
+<br><i aria-hidden="true" class="fa fa-fw fa-map-marker"></i> Nashville, Tennessee
+<br><a href="mailto:yu.wang.1@vanderbilt.edu"><i aria-hidden="true" class="fas fa-envelope"></i> Email</a>
+<br><a href="https://twitter.com/YuWVandy"><i aria-hidden="true" class="fab fa-twitter-square"></i> Twitter</a>
+<br><a href="https://www.linkedin.com/in/yu-wang-63359a196/"><i aria-hidden="true" class="fab fa-linkedin"></i> LinkedIn</a>
+<br><a href="https://github.com/YuWVandy"><i aria-hidden="true" class="fab fa-github"></i> Github</a>
+<br><a href="https://scholar.google.com/citations?user=XPCmiz4AAAAJ&hl=en"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
 </ul>
 </div>
