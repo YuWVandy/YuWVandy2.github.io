@@ -38,10 +38,11 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/vandy1.jpg" alt="Slide 1" />
         </div>
-         <div class="item">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/treedecompose.png" alt="Slide 2" />
         </div>
-      <div class="item">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/treedecompose.png" alt="Slide 3" />
         </div>
+    </div>
 </div>
