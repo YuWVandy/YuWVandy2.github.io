@@ -11,7 +11,7 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 
 
 
-<div>
+<div class="bolderr">
   <img src="{{site.utl}}{{site.baseutl}}/images/carousel/Profile.png" style="margin:0px 800px; width:200px; display:block"/>
 </div>
 
@@ -50,10 +50,6 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-<p style="text-align:center">
-<a class="twitter-timeline" data-width="500" data-height="500" data-theme="light" href="https://twitter.com/nds_vu?ref_src=twsrc%5Etfw">Tweets by nds_vu</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
 
 
 
