@@ -105,6 +105,14 @@ firstp {
 	
 }
 
+
+.hsonuc {
+    position:absolute;
+    top:20px;
+    right:50%; /* Positions 50% from right (right edge will be at center) */
+    margin-right:200px; /* Positions 200px to the left of center */
+}
+
 /* added for social links */
 .social-links a {
   width: 40px;
