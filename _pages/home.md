@@ -11,9 +11,6 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 
 
 <img src="{{site.utl}}{{site.baseutl}}/images/carousel/Profile.png" style="margin:0px 800px; width:200px; display:block"/>
-<!-- <div class="yellow-div">
-  
-</div> -->
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="8000" data-pause="hover" >
