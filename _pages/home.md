@@ -45,7 +45,7 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 
 <h1 id="news">News</h1>
 <ul>
-<li>[10/2021] Preprint <a href="https://arxiv.org/abs/2110.12035#">"Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification"! </li>
+<li>[10/2021] Preprint <a href="https://arxiv.org/abs/2110.12035#">"Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification"</a>! </li>
 <li>[08/2021] Serving as the session chair at KDD2021!
 <li>[08/2021] Invited to serve as PC member for AAAI2021!
 <li>[08/2021] Our work <a href="https://arxiv.org/abs/2108.11022">"Tree Decomposed Graph Neural Network"</a> is accepted by CIKM 2021! </li>
