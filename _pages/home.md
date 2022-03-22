@@ -54,6 +54,7 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 <li>[11/2021] Our work <a href="https://arxiv.org/abs/2111.12742#">"Generating Synthetic Systems of Interdependent Critical Infrastructure Networks"</a> has been accepted to IEEE System Journal! </li>
 <li>[11/2021] Invited to serve as sub-reviewer for TheWebConf2022 </li>
 <li>[10/2021] Preprint <a href="https://arxiv.org/abs/2110.12035#">"Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification"</a>! </li>
+<li>[10/2021] Invited to serve as sub-reviewer for SDM2022 </li>
 <li>[08/2021] Serving as the session chair at KDD2021!
 <li>[08/2021] Serving as sub-reviewer for WSDM2022!
 <li>[08/2021] Invited to serve as PC member for AAAI2021!
