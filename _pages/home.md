@@ -45,6 +45,8 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 
 <h1 id="news">News</h1>
 <ul>
+ 
+<li>[02/2022] Preprint <a href="https://arxiv.org/abs/2202.05240">"ChemicalX: A Deep Learning Library for Drug Pair Scoring"</a>, really appreciate the guidance from Dr. Benedek from AstraZeneca! </li>
 <li>[02/2022] Serving as the sub-reviewer for KDD2022!
 <li>[02/2022] Invited to organize the MLoG Workshop at WSDM’22</li>
 <li>[12/2021] Preprint <a href="https://arxiv.org/abs/2112.00238#">"Imbalanced Graph Classification via Graph-of-Graph Neural Networks"</a>! </li>
