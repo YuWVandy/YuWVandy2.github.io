@@ -45,10 +45,14 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 
 <h1 id="news">News</h1>
 <ul>
+<li>[02/2022] Serving as the sub-reviewer for KDD2022!
+<li>[02/2022] Invited to organize the MLoG Workshop at WSDM’22</li>
 <li>[12/2021] Preprint <a href="https://arxiv.org/abs/2112.00238#">"Imbalanced Graph Classification via Graph-of-Graph Neural Networks"</a>! </li>
 <li>[11/2021] Our work <a href="https://arxiv.org/abs/2111.12742#">"Generating Synthetic Systems of Interdependent Critical Infrastructure Networks"</a> has been accepted to IEEE System Journal! </li>
+<li>[11/2021] Invited to serve as sub-reviewer for TheWebConf2022 </li>
 <li>[10/2021] Preprint <a href="https://arxiv.org/abs/2110.12035#">"Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification"</a>! </li>
 <li>[08/2021] Serving as the session chair at KDD2021!
+<li>[08/2021] Serving as sub-reviewer for WSDM2022!
 <li>[08/2021] Invited to serve as PC member for AAAI2021!
 <li>[08/2021] Our work <a href="https://arxiv.org/abs/2108.11022">"Tree Decomposed Graph Neural Network"</a> is accepted by CIKM 2021! </li>
 <li>[06/2021] Preprint <a href="https://tylersnetwork.github.io/papers/ssl_for_gnns.pdf">“Graph Neural Networks: Self-supervised Learning”</a>.</li>
