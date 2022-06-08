@@ -54,7 +54,7 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 <li>[04/2022] Invited to serve as Reviewer for TKDE! </li>
 <li>[03/2022] Invited to serve as the sub-reviewer for KDD’22! </li>
 <li>[02/2022] Preprint <a href="https://arxiv.org/abs/2202.05240">"ChemicalX: A Deep Learning Library for Drug Pair Scoring"</a>, really appreciate the guidance of Dr. Rozemberczki from AstraZeneca! </li>
-<li>[02/2022] Invited to organize the MLoG Workshop at WSDM’22</li>
+<li>[02/2022] Invited to serve as the Web Chair for Machine Learning on Graphs (MLoG) workshop at WSDM’22!</li>
 <li>[01/2022] Our chapter <a href="https://tylersnetwork.github.io/papers/ssl_for_gnns.pdf">“Graph Neural Networks: Self-supervised Learning”</a> is available in the book <a href="https://graph-neural-networks.github.io/">"Graph Neural Networks: Foundations, Frontiers, and Applications"</a>.</li>
 <li>[01/2022] Awarded NSF Student Traveral Award to attend doctoral forum for WSDM2022!
 <li>[12/2021] Preprint <a href="https://arxiv.org/abs/2112.00238#">"Imbalanced Graph Classification via Graph-of-Graph Neural Networks"</a>! </li>
