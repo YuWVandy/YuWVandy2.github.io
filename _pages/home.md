@@ -24,7 +24,7 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/fairvgnn_sens.png" alt="Slide 1" />
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/treedecompose.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/CIKM_framework.png" alt="Slide 2" />
         </div>
         <!-- 
         <div class="item">
