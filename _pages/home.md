@@ -41,7 +41,7 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
   </a>
 </div>
 
-<h1 id="news">News</h1>
+<h1 id="news">2022</h1>
 <ul>
 <li>[05/2022] My first author paper ‘Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage’ is accepted at KDD’22 research track! </li>
 <li>[05/2022] Our paper 'On Structural Explanation of Bias in Graph Neural Networks' is accepted at KDD'22</li>
@@ -61,7 +61,6 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 </ul>
 
 <h1 id="news">2021</h1>
-<ul>
 <li>[12/2021] Preprint <a href="https://arxiv.org/abs/2112.00238#">"Imbalanced Graph Classification via Graph-of-Graph Neural Networks"</a>! </li>
 <li>[11/2021] Our work <a href="https://arxiv.org/abs/2111.12742#">"Generating Synthetic Systems of Interdependent Critical Infrastructure Networks"</a> has been accepted to IEEE System Journal! </li>
 <li>[11/2021] Invited to serve as sub-reviewer for TheWebConf2022 </li>
@@ -79,4 +78,3 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 <li>[08/2020] Best Paper Award in SMC Data Challenge 2020!</li>
 <li>[08/2019] Join Dr. Hiba Baroud's group at Vanderbilty.</li>
 <li>[06/2019] Graduate from Harbin Insistute of Technology.</li>
-</ul>
