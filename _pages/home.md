@@ -60,7 +60,7 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 <li>[01/2022] Awarded NSF Student Traveral Award to attend doctoral forum for WSDM2022!
 </ul>
 <details>
-<summary>2021</summary>
+<summary>More news</summary>
 <ul>
 <li>[12/2021] Preprint <a href="https://arxiv.org/abs/2112.00238#">"Imbalanced Graph Classification via Graph-of-Graph Neural Networks"</a>! </li>
 <li>[11/2021] Our work <a href="https://arxiv.org/abs/2111.12742#">"Generating Synthetic Systems of Interdependent Critical Infrastructure Networks"</a> has been accepted to IEEE System Journal! </li>
@@ -80,3 +80,4 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 <li>[08/2019] Join Dr. Hiba Baroud's group at Vanderbilty.</li>
 <li>[06/2019] Graduate from Harbin Insistute of Technology.</li>
 </ul>
+</details><br/>
