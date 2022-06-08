@@ -45,6 +45,14 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 
 <h1 id="news">News</h1>
 <ul>
+<li>[05/2022] My first author paper ‘Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage’ is accepted at KDD’22 research track! </li>
+<li>[05/2022] Three papers accepted at KDD’22! </li>
+<li>[04/2022] Honored to win Vanderbilt’s C.F.Chen Best Paper Award! Extremely appreciate the help from my advisor Dr. Derr! </li>
+<li>[04/2022] Poster presentation at SDM’22 Doctoral Forum! </li>
+<li>[04/2022] Awarded the SDM’22 travel award! </li>
+<li>[04/2022] Invited to serve as PC member for KDD’22! </li>
+<li>[04/2022] Invited to serve as Reviewer for TKDE! </li>
+<li>[03/2022] Invited to serve as the sub-reviewer for KDD’22! </li>
 <li>[02/2022] Preprint <a href="https://arxiv.org/abs/2202.05240">"ChemicalX: A Deep Learning Library for Drug Pair Scoring"</a>, really appreciate the guidance of Dr. Rozemberczki from AstraZeneca! </li>
 <li>[02/2022] Serving as the sub-reviewer for KDD2022!
 <li>[02/2022] Invited to organize the MLoG Workshop at WSDM’22</li>
