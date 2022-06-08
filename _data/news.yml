@@ -1,5 +1,11 @@
 - date: 5/2022
-  headline: "<b>Our paper <a href="https://arxiv.org/abs/2202.05240">"ChemicalX: A Deep Learning Library for Drug Pair Scoring"</a> is accepted at KDD'22 and corresponding open-source library is available <a href='https://github.com/astrazeneca/chemicalx'>here</a>!</b>"
+  headline: "<b>My first author paper ‘Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage’ is accepted at KDD’22 research track!</b>"
+
+- date: 5/2022
+  headline: "<b>Our paper 'On Structural Explanation of Bias in Graph Neural Networks' is accepted at KDD'22!</b>"
+  
+- date: 5/2022
+  headline: "<b>Our paper ChemicalX: A Deep Learning Library for Drug Pair Scoring"</a> is accepted at KDD'22!</b>"
 
 - date: 5/2022
   headline: "<b>Thrilled to start my summer research scientist internship at The Home Depot!</b>"
