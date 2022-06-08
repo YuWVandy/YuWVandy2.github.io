@@ -61,6 +61,7 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 </ul>
 
 <h1 id="news">2021</h1>
+<ul>
 <li>[12/2021] Preprint <a href="https://arxiv.org/abs/2112.00238#">"Imbalanced Graph Classification via Graph-of-Graph Neural Networks"</a>! </li>
 <li>[11/2021] Our work <a href="https://arxiv.org/abs/2111.12742#">"Generating Synthetic Systems of Interdependent Critical Infrastructure Networks"</a> has been accepted to IEEE System Journal! </li>
 <li>[11/2021] Invited to serve as sub-reviewer for TheWebConf2022 </li>
