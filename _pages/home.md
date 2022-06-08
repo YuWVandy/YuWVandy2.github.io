@@ -45,6 +45,7 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 
 <h1 id="news">News</h1>
 <ul>
+<li>[05/2022] Invited to serve as the Web Chair at ICDM'22! </li>
 <li>[05/2022] My first author paper ‘Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage’ is accepted at KDD’22 research track! </li>
 <li>[05/2022] Three papers accepted at KDD’22! </li>
 <li>[04/2022] Honored to win Vanderbilt’s C.F.Chen Best Paper Award! Extremely appreciate the help from my advisor Dr. Derr! </li>
