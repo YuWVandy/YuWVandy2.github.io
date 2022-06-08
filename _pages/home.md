@@ -61,7 +61,6 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 </ul>
 <details>
 <summary><h1 id="news">2021</h1></summary>
-</details>
 <ul>
 <li>[12/2021] Preprint <a href="https://arxiv.org/abs/2112.00238#">"Imbalanced Graph Classification via Graph-of-Graph Neural Networks"</a>! </li>
 <li>[11/2021] Our work <a href="https://arxiv.org/abs/2111.12742#">"Generating Synthetic Systems of Interdependent Critical Infrastructure Networks"</a> has been accepted to IEEE System Journal! </li>
@@ -80,4 +79,4 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 <li>[08/2020] Best Paper Award in SMC Data Challenge 2020!</li>
 <li>[08/2019] Join Dr. Hiba Baroud's group at Vanderbilty.</li>
 <li>[06/2019] Graduate from Harbin Insistute of Technology.</li>
-</ul>
+</ul></details>
