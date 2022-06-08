@@ -58,8 +58,9 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 <li>[02/2022] Invited to serve as the Web Chair for Machine Learning on Graphs (MLoG) workshop at WSDM’22!</li>
 <li>[01/2022] Our chapter <a href="https://tylersnetwork.github.io/papers/ssl_for_gnns.pdf">“Graph Neural Networks: Self-supervised Learning”</a> is available in the book <a href="https://graph-neural-networks.github.io/">"Graph Neural Networks: Foundations, Frontiers, and Applications"</a>.</li>
 <li>[01/2022] Awarded NSF Student Traveral Award to attend doctoral forum for WSDM2022!
-<br>
-<h1 id="news">2021</h1>
+</ul>
+<details>
+<summary><h1 id="news">2021</h1></summary>
 <ul>
 <li>[12/2021] Preprint <a href="https://arxiv.org/abs/2112.00238#">"Imbalanced Graph Classification via Graph-of-Graph Neural Networks"</a>! </li>
 <li>[11/2021] Our work <a href="https://arxiv.org/abs/2111.12742#">"Generating Synthetic Systems of Interdependent Critical Infrastructure Networks"</a> has been accepted to IEEE System Journal! </li>
