@@ -40,7 +40,7 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
     <span class="sr-only">Next</span>
   </a>
 </div>
-<br>
+
 <h1 id="news">News</h1>
 <ul>
 <li>[05/2022] My first author paper ‘Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage’ is accepted at KDD’22 research track! </li>
@@ -59,7 +59,6 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 <li>[01/2022] Our chapter <a href="https://tylersnetwork.github.io/papers/ssl_for_gnns.pdf">“Graph Neural Networks: Self-supervised Learning”</a> is available in the book <a href="https://graph-neural-networks.github.io/">"Graph Neural Networks: Foundations, Frontiers, and Applications"</a>.</li>
 <li>[01/2022] Awarded NSF Student Traveral Award to attend doctoral forum for WSDM2022!
 </ul>
-<details>
 <summary>More news</summary>
 <ul>
 <li>[12/2021] Preprint <a href="https://arxiv.org/abs/2112.00238#">"Imbalanced Graph Classification via Graph-of-Graph Neural Networks"</a>! </li>
@@ -80,4 +79,3 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 <li>[08/2019] Join Dr. Hiba Baroud's group at Vanderbilty.</li>
 <li>[06/2019] Graduate from Harbin Insistute of Technology.</li>
 </ul>
-</details><br/>
