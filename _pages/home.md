@@ -42,7 +42,7 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
     <span class="sr-only">Next</span>
   </a>
 </div>
-
+<br>
 <h1 id="news">News</h1>
 <ul>
 <li>[05/2022] My first author paper ‘Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage’ is accepted at KDD’22 research track! </li>
