@@ -1,3 +1,6 @@
+- date: 7/2022
+  headline: "<b>Our paper ‘Collaboration-Aware Graph Convolutional Networks for Recommendation Systems’ is available online. Check how our proposed CAGCN model achieves near 10% recall and 80% speed-up over LightGCN!</b>"
+
 - date: 5/2022
   headline: "<b>My first author paper ‘Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage’ is accepted at KDD’22 research track!</b>"
 
