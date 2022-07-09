@@ -43,7 +43,7 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 
 <h1 id="news">2022</h1>
 <ul>
-<li>[07/2022] Our paper ‘Collaboration-Aware Graph Neural Networks for Recommendation Systems’ is available <a href='https://github.com/astrazeneca/chemicalx'>here</a>. Check how our proposed CAGCN* achieves nearly 10% Recall@20 and 80% speed-up over LightGCN! </li>
+<li>[07/2022] Our paper ‘Collaboration-Aware Graph Neural Networks for Recommendation Systems’ is available <a href='https://drive.google.com/file/d/14bt1b7qWdkS5aaf4AV0DSP_xCHPwzbuO/view?usp=sharing'>here</a>. Check how our proposed CAGCN* achieves nearly 10% Recall@20 and 80% speed-up over LightGCN! </li>
 <li>[06/2022] Invited to serve as the sub-reviewer for NeurIPS22 </li>
 <li>[05/2022] My first author paper ‘Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage’ is accepted at KDD’22 research track! </li>
 <li>[05/2022] Our paper 'On Structural Explanation of Bias in Graph Neural Networks' is accepted at KDD'22</li>
