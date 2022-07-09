@@ -1,5 +1,5 @@
 - date: 7/2022
-  headline: "<b>Our paper ‘Collaboration-Aware Graph Convolutional Networks for Recommendation Systems’ is available online. Check how our proposed CAGCN model achieves near 10% Recall@20 and 80% speed-up over LightGCN!</b>"
+  headline: "<b>Our paper ‘Collaboration-Aware Graph Convolutional Networks for Recommendation Systems’ is available online. Check how our proposed CAGCN* model achieves near 10% Recall@20 and 80% speed-up over LightGCN!</b>"
 
 - date: 6/2022
   headline: "<b>Invited to serve as the Sub-reviewer for NeurIPS'22</b>"
