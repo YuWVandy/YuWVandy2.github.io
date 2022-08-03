@@ -43,6 +43,7 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 
 <h1 id="news">2022</h1>
 <ul>
+<li>[08/2022] Our paper Imbalanced Graph Classification is accepted at CIKM'22 research track!</a>
 <li>[07/2022] Our paper <a href='https://arxiv.org/abs/2207.06221'>‘Collaboration-Aware Graph Neural Networks for Recommendation Systems’</a> is available now. Go and Check how our proposed CAGCN* achieves nearly 10% Recall@20 and 80% speed-up over LightGCN! </li>
 <li>[06/2022] Invited to serve as the sub-reviewer for NeurIPS22 </li>
 <li>[05/2022] My first author paper ‘Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage’ is accepted at KDD’22 research track! </li>
