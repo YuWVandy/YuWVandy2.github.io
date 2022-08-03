@@ -1,3 +1,6 @@
+- date: 8/2022
+  headline: "<b>Our paper ‘Imbalance Graph Classification via Graph-of-Graph Neural Networks’ is accepted at CIKM'22 research track!</b>"
+
 - date: 7/2022
   headline: "<b>Our paper ‘Collaboration-Aware Graph Convolutional Networks for Recommendation Systems’ is available online. Check how our proposed CAGCN* model achieves near 10% Recall@20 and 80% speed-up over LightGCN!</b>"
 
