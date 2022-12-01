@@ -43,7 +43,15 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 
 <h1 id="news">2022</h1>
 <ul>
-<li>[08/2022] Our paper Imbalanced Graph Classification is accepted at CIKM'22 research track!</a>
+<li>[11/2022] Presented our work ‘Demystify the Degree-related Bias in Recommender Systems’ at ICDM’22 MLoG workshop </li>    
+<li>[11/2022] Invited to serve as the Reviewer for DAMI! </li>
+<li>[11/2022] Our extended abstract ‘‘Collaboration-Aware Graph Neural Networks for Recommendation Systems’’ was accepted at Learning on Graphs (LOG) conference! </li>
+<li>[11/2022] Two papers accepted at AAAI’23, one for fair explanation and the other for molecular graph kernel representation, congraulations Yuying and Lance! </li>
+<li>[10/2022] Awarded the student travel award for attending ICDM’22 </li>
+<li>[09/2022] Invited to serve as the Sub-reviewer for AAAI’23 </li>
+<li>[09/2022] Invited to serve as PC member for WSDM’23! </li>
+<li>[09/2022] Invited to serve as the Sub-reviewer for WSDM’23! </li> 
+<li>[08/2022] Our paper Imbalanced Graph Classification is accepted at CIKM'22 research track! </li>
 <li>[07/2022] Our paper <a href='https://arxiv.org/abs/2207.06221'>‘Collaboration-Aware Graph Neural Networks for Recommendation Systems’</a> is available now. Go and Check how our proposed CAGCN* achieves nearly 10% Recall@20 and 80% speed-up over LightGCN! </li>
 <li>[06/2022] Invited to serve as the sub-reviewer for NeurIPS22 </li>
 <li>[05/2022] My first author paper ‘Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage’ is accepted at KDD’22 research track! </li>
