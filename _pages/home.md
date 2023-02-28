@@ -41,8 +41,26 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
   </a>
 </div>
 
+<h1 id="news">2023</h1>
+<ul>
+<li>[02/2023] Invitied to serve as a reviewer for JOCO! </li>
+<li>[02/2023] Invitied to serve as a reviewer for TKDE! </li>
+<li>[02/2023] Invitied to serve as a subreviewer for ICWSM’23! </li>
+<li>[02/2023] Invitied to serve as a PC member for MLoG@WSDM’23! </li>
+<li>[01/2023] Thrilled to receive the American Bureau of Shipping Scholarship Award. Thank you Tyler and our CS Department for the nomination! </li>
+<li>[01/2023] Our work <a href='https://arxiv.org/abs/2207.06221'>‘Collaboration-aware Graph Convolution’</a> is accepted at WWW’23! </li>
+<li>[01/2023] Invited to serve as PC member for both Research and Applied Track of KDD’23! </li>    
+<li>[01/2023] Invited to serve as the Reviewer for DAMI! </li>    
+</ul>
+
 <h1 id="news">2022</h1>
 <ul>
+<li>[01/2022] Our paper <a href='https://arxiv.org/abs/2211.15590'>‘A Bayesian Approach to Reconstructing Interdependent Infrastructure Networks from Cascading Failures’</a> is available now! </li>
+<li>[12/2022] Our paper <a href='https://ieeexplore.ieee.org/abstract/document/10031056'>‘Degree-related Bias in Link Prediction’</a> is accepted at ICDMW 22! </li>
+<li>[12/2022] Excited to accept the offer to join Adobe as a Ph.D. research intern for Summer 23! </li>
+<li>[12/2022] Invited to serve as the reviewer for TNNLS! </li>
+<li>[12/2022] Present a poster at LoG'22! </li>
+<li>[11/2022] Serve as two session chairs at ICDM'22! </li>
 <li>[11/2022] Presented our work ‘Demystify the Degree-related Bias in Recommender Systems’ at ICDM’22 MLoG workshop </li>    
 <li>[11/2022] Invited to serve as the Reviewer for DAMI! </li>
 <li>[11/2022] Our extended abstract ‘‘Collaboration-Aware Graph Neural Networks for Recommendation Systems’’ was accepted at Learning on Graphs (LOG) conference! </li>
