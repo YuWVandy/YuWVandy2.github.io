@@ -1,3 +1,42 @@
+- date: 02/2023
+  headline: "<b>Invitied to serve as a reviewer for JOCO!</b>"
+
+- date: 02/2023
+  headline: "<b>Invitied to serve as a reviewer for TKDE!</b>"
+
+- date: 02/2023
+  headline: "<b>Invitied to serve as a subreviewer for ICWSM'23!</b>"
+
+- date: 02/2023
+  headline: "<b>Invitied to serve as a PC member for MLoG@WSDM'23!</b>"
+  
+- date: 01/2023
+  headline: "<b>Thrilled to receive the American Bureau of Shipping Scholarship Award. Thank you Tyler for the nomination!</b>"
+  
+- date: 01/2023
+  headline: "<b>Our work 'Collaboration-aware Graph Convolution' is accepted at WWW'23!</b>"
+  
+- date: 01/2023
+  headline: "<b>Invited to serve as PC member for both Research and Applied Track of KDD'23!</b>"
+
+- date: 01/2023
+  headline: "<b>Invited to serve as the Reviewer for DAMI!</b>"
+
+- date: 01/2023
+  headline: "<b>Our paper 'Degree-related Bias in Link Prediction' is accepted at ICDMW 22!</b>"
+  
+- date: 12/2022
+  headline: "<b>Excited to accept the offer to join Adobe as a Ph.D. research intern for Summer 23!</b>"
+  
+- date: 12/2022
+  headline: "<b>Invited to serve as the Reviewer for TNNLS!</b>"
+
+- date: 12/2022
+  headline: "<b>Present a poster at LoG'22.</b>"
+
+- date: 11/2022
+  headline: "<b>Chair two sessions as student volunteer at ICDM 22!</b>"
+  
 - date: 11/2022
   headline: "<b>Presented our work 'Demystify the Degree-related Bias in Recommender Systems' at ICDM'22 MLoG workshop</b>"
 
@@ -5,7 +44,7 @@
   headline: "<b>Invited to serve as the Reviewer for DAMI</b>"
 
 - date: 11/2022
-  headline: "<b>Our extended abstract ‘‘Collaboration-Aware Graph Neural Networks for Recommendation Systems’’ was accepted at Learning on Graphs (LOG) conference</b>"
+  headline: "<b>Two extended abstracts are accepted at Learning on Graphs(LoG'22).</b>"
 
 - date: 11/2022
   headline: "<b>Two papers accepted at AAAI'23, one for fair explanation and the other for molecular graph kernel representation, congraulations Yuying and Lance!</b>"
