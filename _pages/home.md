@@ -45,7 +45,7 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 <ul>
 <li>[08/2023] Invited to serve as PC for WSDM24 and AAAI24! </li>
 <li>[07/2023] Two surveys are available online, one discussing recommendation diversity/fairness and the other discussing fairness in GNN! </li>
-<li>[05/2023] Thrilled to receive the 2023 Graduate Leadership Anchor Awards - Research Branch<a href='https://news.vanderbilt.edu/2023/08/04/five-students-receive-2023-graduate-leadership-anchor-awards'>'Research Branch'</a>! </li>
+<li>[05/2023] Thrilled to receive the 2023 Graduate Leadership Anchor Awards - <a href='https://news.vanderbilt.edu/2023/08/04/five-students-receive-2023-graduate-leadership-anchor-awards'>'Research Branch'</a>! </li>
 <li>[04/2023] The paper ‘Integrating Expert Knowledge with Deep Learning Improves QSAR Models for CADD Modeling’ is online!! </li>
 <li>[03/2023] Invited to serve as a reviewer for TNNLS! </li>
 <li>[02/2023] Invited to serve as a reviewer for JOCO! </li>
