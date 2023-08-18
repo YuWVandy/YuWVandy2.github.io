@@ -43,11 +43,16 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 
 <h1 id="news">2023</h1>
 <ul>
-<li>[02/2023] Invitied to serve as a reviewer for JOCO! </li>
-<li>[02/2023] Invitied to serve as a reviewer for TKDE! </li>
-<li>[02/2023] Invitied to serve as a subreviewer for ICWSM’23! </li>
-<li>[02/2023] Invitied to serve as a PC member for MLoG@WSDM’23! </li>
-<li>[01/2023] Thrilled to receive the American Bureau of Shipping Scholarship Award. Thank you Tyler and our CS Department for the nomination! </li>
+<li>[08/2023] Invited to serve as PC for WSDM24 and AAAI24! </li>
+<li>[07/2023] Two surveys are available online, one discussing recommendation diversity/fairness and the other discussing fairness in GNN! </li>
+<li>[05/2023] Thrilled to receive the 2023 Graduate Leadership Anchor Awards - Research Branch<a href='https://news.vanderbilt.edu/2023/08/04/five-students-receive-2023-graduate-leadership-anchor-awards'>'Research Branch'</a>! </li>
+<li>[04/2023] The paper ‘Integrating Expert Knowledge with Deep Learning Improves QSAR Models for CADD Modeling’ is online!! </li>
+<li>[03/2023] Invited to serve as a reviewer for TNNLS! </li>
+<li>[02/2023] Invited to serve as a reviewer for JOCO! </li>
+<li>[02/2023] Invited to serve as a reviewer for TKDE! </li>
+<li>[02/2023] Invited to serve as a subreviewer for ICWSM’23! </li>
+<li>[02/2023] Invited to serve as a PC member for MLoG@WSDM’23! </li>
+<li>[01/2023] Thrilled to receive the American Bureau of Shipping Scholarship Award. Thank you, Tyler and our CS Department, for the nomination! </li>
 <li>[01/2023] Our work <a href='https://arxiv.org/abs/2207.06221'>‘Collaboration-aware Graph Convolution’</a> is accepted at WWW’23! </li>
 <li>[01/2023] Invited to serve as PC member for both Research and Applied Track of KDD’23! </li>    
 <li>[01/2023] Invited to serve as the Reviewer for DAMI! </li>    
@@ -55,7 +60,7 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 
 <h1 id="news">2022</h1>
 <ul>
-<li>[01/2022] Our paper <a href='https://arxiv.org/abs/2211.15590'>‘A Bayesian Approach to Reconstructing Interdependent Infrastructure Networks from Cascading Failures’</a> is available now! </li>
+<li>[12/2022] Our paper <a href='https://arxiv.org/abs/2211.15590'>‘A Bayesian Approach to Reconstructing Interdependent Infrastructure Networks from Cascading Failures’</a> is available now! </li>
 <li>[12/2022] Our paper <a href='https://ieeexplore.ieee.org/abstract/document/10031056'>‘Degree-related Bias in Link Prediction’</a> is accepted at ICDMW 22! </li>
 <li>[12/2022] Excited to accept the offer to join Adobe as a Ph.D. research intern for Summer 23! </li>
 <li>[12/2022] Invited to serve as the reviewer for TNNLS! </li>
