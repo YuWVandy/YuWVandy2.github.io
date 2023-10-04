@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/eecs/) at [Vanderbilt University](https://vanderbilt.edu) advised by [Dr. Tyler Derr](https://www.cse.msu.edu/~derrtyle/). I am always considering potential internship opportunities all the time!
+I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/eecs/) at [Vanderbilt University](https://vanderbilt.edu) advised by [Dr. Tyler Derr](https://www.cse.msu.edu/~derrtyle/). My main research interests focus on data-centric graph machine learning with applications in information retrieval. I am planning to graduate around Summer 2024 and now considering the full-time/internship research positions!
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="8000" data-pause="hover" >
@@ -43,8 +43,10 @@ I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/ee
 
 <h1 id="news">2023</h1>
 <ul>
+<li>[09/2023] Concluding my summer internship at Adobe with two papers coming out, one for Fairness in GNNs and one for KG-LLM! </li>
+<li>[09/2023] Invited to serve as PC for SDM24! </li>
 <li>[08/2023] Invited to serve as PC for WSDM24 and AAAI24! </li>
-<li>[07/2023] Two surveys are available online, one discussing recommendation diversity/fairness and the other discussing fairness in GNN! </li>
+<li>[07/2023] Two surveys are available online, one discussing recommendation diversity/fairness and the other discussing privacy in GNN! </li>
 <li>[05/2023] Thrilled to receive the 2023 Graduate Leadership Anchor Awards - <a href='https://news.vanderbilt.edu/2023/08/04/five-students-receive-2023-graduate-leadership-anchor-awards'>'Research Branch'</a>! </li>
 <li>[04/2023] The paper ‘Integrating Expert Knowledge with Deep Learning Improves QSAR Models for CADD Modeling’ is online!! </li>
 <li>[03/2023] Invited to serve as a reviewer for TNNLS! </li>
