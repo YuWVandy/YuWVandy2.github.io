@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/cs/) at [Vanderbilt University](https://vanderbilt.edu) advised by [Dr. Tyler Derr](https://www.cse.msu.edu/~derrtyle/). My main research interests focus on Data-centric Graph Machine Learning and Data-quality Aware Graph Neural Networks with applications in Graph-enhanced Information Retrieval. I plan to graduate around Summer 2024 and am now considering both the industrial research and academia positions! In addition, I am also welcoming any potential summer internship next year.
+I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/cs/) at [Vanderbilt University](https://vanderbilt.edu) advised by [Dr. Tyler Derr](https://www.cse.msu.edu/~derrtyle/). My main research interests focus on Data-centric Graph Machine Learning and Data-quality Aware Graph Neural Networks with applications in Graph-enhanced Information Retrieval. I plan to graduate around **Summer 2024** and am now considering both the **industrial research and academia positions**! In addition, I am also welcoming any potential **summer internship** next year.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="8000" data-pause="hover" >
